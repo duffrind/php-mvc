@@ -17,6 +17,7 @@ Create database named `php-mvc`
 
 ### SQL:
 
+```
 CREATE DATABASE php-mvc;
 
 USE php-mvc;
@@ -26,4 +27,5 @@ CREATE TABLE posts(
   author varchar(15),
   content varchar(25)
 );
+```
 
