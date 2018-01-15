@@ -9,11 +9,11 @@ Create database named `php-mvc`
 
 ### Schema:
 
-Name|Type
------------
-author|varchar(15)
-content|varchar(25)  
-id|int(11)
+| Name | Type |
+|------|-----|
+| author | varchar(15) |
+| content | varchar(25) |
+| id | int(11) |
 
 ### SQL:
 
